@@ -1,0 +1,25 @@
+{
+  "name": "angular-color",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kylederkacz/angular-color",
+  "authors": [
+    "Kyle Derkacz <kyle@kylederkacz.com>"
+  ],
+  "description": "A set of tools for managing web colors in AngularJS",
+  "main": "dist/angular-color.min.js",
+  "keywords": [
+    "angularjs",
+    "color"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dateformat": "~0.4.1"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "angular-color",
+  "version": "0.1.0",
+  "description": "A set of tools for managing web colors in AngularJS",
+  "main": "angular-color.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-cli": "^0.1.13",
+    "requirejs": "^2.1.15",
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-uglify": "~0.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kylederkacz/angular-color.git"
+  },
+  "keywords": [
+    "angularjs",
+    "color"
+  ],
+  "author": "Kyle Derkacz <kyle@kylederkacz.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kylederkacz/angular-color/issues"
+  },
+  "homepage": "https://github.com/kylederkacz/angular-color"
+}
