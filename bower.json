@@ -6,7 +6,7 @@
     "Kyle Derkacz <kyle@kylederkacz.com>"
   ],
   "description": "A set of tools for managing web colors in AngularJS",
-  "main": "dist/angular-color.min.js",
+  "main": "angular-color.min.js",
   "keywords": [
     "angularjs",
     "color"
